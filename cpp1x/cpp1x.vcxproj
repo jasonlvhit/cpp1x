@@ -65,9 +65,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="lambda.h" />
+    <ClInclude Include="miscellaneous.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="lambda.cpp" />
+    <ClCompile Include="miscellaneous.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

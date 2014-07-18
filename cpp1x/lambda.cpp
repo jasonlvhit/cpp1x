@@ -1,5 +1,5 @@
 #include "lambda.h"
-
+/*
 int main(){
 	basic();
 	capture();
@@ -10,3 +10,5 @@ int main(){
 	getchar();
 	return 0;
 }
+
+*/

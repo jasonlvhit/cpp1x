@@ -18,10 +18,16 @@
     <ClInclude Include="lambda.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="miscellaneous.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="lambda.cpp">
       <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="miscellaneous.cpp">
+      <Filter>Resource Files</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
